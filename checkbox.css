@@ -8,6 +8,12 @@ body {
   line-height: 1;
   background: #333333;
 }
+h2 {
+  text-align: center;
+  color: #f0f0f0;
+  font-weight: 400;
+  text-shadow: 0 2px 3px rgba(0, 0, 0, 0.165);
+}
 .pen {
   max-width: 400px ;
   width: 100%;
